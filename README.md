@@ -29,3 +29,7 @@ Ensuite pour la 2nde version :
   * `Version 1` : Amélioration de l'envoi des messages à travers une ArrayList et une socket. Meilleure gestion de la musique à travers plus de commandes et fonctionnalités.
 
   * `Version 2` : Améliorer la gestion du son en ajoutant quelques commandes améliorant l'interface utilisateur. Optimiser notre code dans l'idée de l'utiliser sur un serveur distant.
+  
+## Lien drive dossier
+
+  https://drive.google.com/file/d/137TGbRUpqRiPopdECGj_aV7KmwYMx8Ed/view
